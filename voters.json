@@ -1,0 +1,12 @@
+[
+    {
+        "id": "user1",
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "has_voted": true
+    },
+    {
+        "id": "user2",
+        "password": "db2e7f1bd5ab9968ae76199b7cc74795ca7404d5a08d78567715ce532f9d2669",
+        "has_voted": false
+    }
+]
